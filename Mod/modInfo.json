@@ -1,0 +1,9 @@
+{
+  "identifier": "erkle64.FastEscalators",
+  "displayName": "FastEscalators",
+  "assetBundles": [ ],
+  "assemblies": [
+    "FastEscalators.dll"
+  ]
+}
+
